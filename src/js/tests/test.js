@@ -34,5 +34,5 @@ test('test get specials fucnction', () => {
         name: 'Нокаутирующий удар',
         icon: 'http://...',
         description: 'Описание недоступно',
-    },])
-})
+    }]);
+});
